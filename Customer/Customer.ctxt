@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Customer
+comment1.params=name
+comment1.target=void\ setName(java.lang.String)
+comment10.params=
+comment10.target=void\ printCustomer()
+comment11.params=
+comment11.target=void\ testen()
+comment2.params=geld
+comment2.target=void\ setGeld(int)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=int\ getGeld()
+comment5.params=name\ geld
+comment5.target=Customer(java.lang.String,\ int)
+comment6.params=
+comment6.target=Customer()
+comment7.params=
+comment7.target=java.lang.String\ getVorname()
+comment8.params=
+comment8.target=java.lang.String\ getNachname()
+comment9.params=
+comment9.target=java.lang.String\ getNachnameVorname()
+numComments=12
